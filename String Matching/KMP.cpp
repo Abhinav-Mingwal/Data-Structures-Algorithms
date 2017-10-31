@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//GGWP
 using namespace std;
 void make_lps(int *lps, string &pattern){
     int j=0, i=1;
