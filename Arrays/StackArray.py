@@ -1,5 +1,5 @@
 # Implementation of a stack using an array
-# Python 3
+# Python 3.0
 # Aitor Alonso (https://github.com/tairosonloa)
 
 class StackArray:
